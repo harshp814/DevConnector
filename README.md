@@ -5,7 +5,8 @@ DevConnector is a platform where developers can connect with other developers. M
 <img src="DevConnector.JPG"/> 
 
 ### Running the Application
-Note: Make sure you have node and npm package manager installed, if not please visit https://nodejs.org/en/
+Note: Make sure you have node and npm package manager installed, if not please visit https://nodejs.org/en/. 
+
 Run the following commands in git bash or cmd or terminal
 1. Clone the repository using command:
 
