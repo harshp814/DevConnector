@@ -19,7 +19,6 @@ git clone https://github.com/harshp814/DevConnector.git
 ```
 npm install
 ```
-and
 ```
 npm install client-install
 ```
